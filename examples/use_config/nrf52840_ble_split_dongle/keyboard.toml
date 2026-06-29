@@ -53,9 +53,9 @@ bspc-fnumMouse = "LT(fnumMouse, bspc, FH)"
 comm-numNav = "LT(numNav, comm, FH)"
 del-symbol = "LT(symbol, del, FH)"
 # Å, Ä, Ö
-awe = "WM(P, RAlt)"
+awe = "WM(W, RAlt)"
 eah = "WM(Q, RAlt)"
-uuh = "WM(W, RAlt)"
+uuh = "WM(P, RAlt)"
 
 [layout]
 rows = 4
