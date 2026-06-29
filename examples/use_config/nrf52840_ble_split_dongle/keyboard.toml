@@ -43,7 +43,7 @@ mtF = "MT(F, LGui, HRM)"
 mtJ = "MT(J, RGui, HRM)"
 mtK = "MT(K, RCtrl, HRM)"
 mtL = "MT(L, RAlt, HRM)"
-mtAwe = "MT(WM(P, RAlt), LShift, HRM)"
+mtAwe = "MT(WM(W, RAlt), LShift, HRM)"
 #mtAwe = "MT(P, LShift, HRM)"
 # Layer taps
 esc-symbol = "LT(symbol, esc, FH)"
